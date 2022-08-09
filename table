@@ -1,13 +1,13 @@
-<table border = "1">
-  <thead>
-    <tr>
-      <td> head1 </td>
+<table border = "1"> //borda
+  <thead> //cabeçalho
+    <tr> //linhas
+      <td> head1 </td> //colunas
       <td> head2 </td>
       <td> head3 </td>
     </tr>
   </thead>
   
-  <tbody>
+  <tbody> //tabela
     <tr>
       <td> 1,1 </td>
       <td> 1,2 </td>
@@ -30,7 +30,7 @@
     </tr>
   </tbody>
   
-  <foot>
+  <foot> //rodapé
     <tr>
       <td> foot1 </td>
       <td> foot2 </td>
