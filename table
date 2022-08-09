@@ -1,0 +1,39 @@
+<table border = "1">
+  <thead>
+    <tr>
+      <td> head1 </td>
+      <td> head2 </td>
+      <td> head3 </td>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td> 1,1 </td>
+      <td> 1,2 </td>
+      <td> 1,3 </td>
+    </tr>
+    <tr>
+      <td> 2,1 </td>
+      <td> 2,2 </td>
+      <td> 2,3 </td>
+    </tr>
+    <tr>
+      <td> 3,1 </td>
+      <td> 3,2 </td>
+      <td> 3,3 </td>
+    </tr>
+    <tr>
+      <td> 4,1 </td>
+      <td> 4,2 </td>
+      <td> 4,3 </td>
+    </tr>
+  </tbody>
+  
+  <foot>
+    <tr>
+      <td> foot1 </td>
+      <td> foot2 </td>
+      <td> foot3 </td>
+    </tr>
+  </foot>
